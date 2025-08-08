@@ -36,3 +36,8 @@ Note: npx db-migrate up --config database/database.json to set up database ---- 
    You should get message
    ```bash
    Server listening on 3001
+
+5. Open a new terminal and run
+   ```bash
+   cd GuessTheLocation/client
+   
