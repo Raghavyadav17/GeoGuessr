@@ -23,4 +23,9 @@
    ```bash
    git clone https://github.com/Raghavyadav17/GeoGuessr.git
 2. ```bash
-   cd GuessTheLocation
+   cd GeoGuessr
+3. ```bash
+   cd server && npm i
+   ```
+   to install dependencies for the server directory
+Note: npx db-migrate up --config database/database.json to set up database ---- ps is this still the necessary step as it gives me error msg and I finished setup without using it
