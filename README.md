@@ -21,4 +21,6 @@
 
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Raghavyadav17/GeoGuessr.git
+2. ```bash
+   cd GuessTheLocation
