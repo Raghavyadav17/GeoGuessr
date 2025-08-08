@@ -29,3 +29,10 @@
    ```
    to install dependencies for the server directory
 Note: npx db-migrate up --config database/database.json to set up database ---- ps is this still the necessary step as it gives me error msg and I finished setup without using it
+
+4. ```bash
+   npm run dev
+   ```
+   You should get message
+   ```bash
+   Server listening on 3001
